@@ -1,1 +1,2 @@
 this line written by Sami
+Hatem add a new function
